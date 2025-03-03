@@ -1,0 +1,230 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/hxZHSBdn/20250303-145518.jpg" group-title="আল ফাতিহা", Al-Fatihah
+https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/1.mp3
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/hxZHSBdn/20250303-145518.jpg" group-title="আল বাকারা", Al-Baqara
+https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/2.mp3
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/hxZHSBdn/20250303-145518.jpg" group-title="আল ইমরান", Ali 'Imran
+https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/3.mp3
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/hxZHSBdn/20250303-145518.jpg" group-title="আন নিসা", An-Nisa
+https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/4.mp3
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/hxZHSBdn/20250303-145518.jpg" group-title="আল মায়িদাহ", Al-Ma'idah
+https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/5.mp3
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/hxZHSBdn/20250303-145518.jpg" group-title="আল আনআম", Al-An'am
+https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/6.mp3
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/hxZHSBdn/20250303-145518.jpg" group-title="আল আরাফ", Al-A'raf
+https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/7.mp3
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/hxZHSBdn/20250303-145518.jpg" group-title="আল আনফাল", Al-Anfal
+https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/8.mp3
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/hxZHSBdn/20250303-145518.jpg" group-title="আত-তাওবাহ্‌", At-Tawbah
+https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/9.mp3
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/hxZHSBdn/20250303-145518.jpg" group-title="ইউনুস", Yunus
+https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/10.mp3
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/hxZHSBdn/20250303-145518.jpg" group-title="হুদ", Hud
+https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/11.mp3
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/hxZHSBdn/20250303-145518.jpg" group-title="ইউসুফ", Yusuf
+https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/12.mp3
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/hxZHSBdn/20250303-145518.jpg" group-title="আর-রাদ", Ar-Ra'd
+https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/13.mp3
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/hxZHSBdn/20250303-145518.jpg" group-title="ইব্রাহীম", Ibrahim
+https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/14.mp3
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/hxZHSBdn/20250303-145518.jpg" group-title="আল হিজর", Al-Hijr
+https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/15.mp3
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/hxZHSBdn/20250303-145518.jpg" group-title="আন নাহল", An-Nahl
+https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/16.mp3
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/hxZHSBdn/20250303-145518.jpg" group-title="বনী-ইসরাঈল", Al-Isra
+https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/17.mp3
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/hxZHSBdn/20250303-145518.jpg" group-title="আল কাহফ", Al-Kahf
+https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/18.mp3
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/hxZHSBdn/20250303-145518.jpg" group-title="মারইয়াম", Maryam
+https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/19.mp3
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/hxZHSBdn/20250303-145518.jpg" group-title="ত্বোয়া-হা", Ta-Ha
+https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/20.mp3
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/hxZHSBdn/20250303-145518.jpg" group-title="আল আম্বিয়া", Al-Anbiya
+https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/21.mp3
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/hxZHSBdn/20250303-145518.jpg" group-title="আল হাজ্জ্ব", Al-Hajj
+https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/22.mp3
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/hxZHSBdn/20250303-145518.jpg" group-title="আল মু'মিনূন", Al-Mu'minun
+https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/23.mp3
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/hxZHSBdn/20250303-145518.jpg" group-title="আন নূর", An-Nur
+https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/24.mp3
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/hxZHSBdn/20250303-145518.jpg" group-title="আল ফুরকান", Al-Furqan
+https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/25.mp3
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/hxZHSBdn/20250303-145518.jpg" group-title="আশ শুআরা", Ash-Shu'ara
+https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/26.mp3
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/hxZHSBdn/20250303-145518.jpg" group-title="আন নম্‌ল", An-Naml
+https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/27.mp3
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/hxZHSBdn/20250303-145518.jpg" group-title="আল কাসাস", Al-Qasas
+https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/28.mp3
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/hxZHSBdn/20250303-145518.jpg" group-title="আল আনকাবূত", Al-Ankabut
+https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/29.mp3
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/hxZHSBdn/20250303-145518.jpg" group-title="আর রুম", Ar-Rum
+https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/30.mp3
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/hxZHSBdn/20250303-145518.jpg" group-title="লোক্‌মান", Luqman
+https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/31.mp3
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/hxZHSBdn/20250303-145518.jpg" group-title="আস সেজদাহ্", As-Sajda
+https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/32.mp3
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/hxZHSBdn/20250303-145518.jpg" group-title="আল আহ্‌যাব", Al-Ahzab
+https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/33.mp3
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/hxZHSBdn/20250303-145518.jpg" group-title="সাবা", Saba
+https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/34.mp3
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/hxZHSBdn/20250303-145518.jpg" group-title="ফাতির", Fatir
+https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/35.mp3
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/hxZHSBdn/20250303-145518.jpg" group-title="ইয়াসীন", Ya-Sin
+https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/36.mp3
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/hxZHSBdn/20250303-145518.jpg" group-title="আস ছাফ্‌ফাত", As-Saffat
+https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/37.mp3
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/hxZHSBdn/20250303-145518.jpg" group-title="ছোয়াদ", Sad
+https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/38.mp3
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/hxZHSBdn/20250303-145518.jpg" group-title="আয্‌-যুমার", Az-Zumar
+https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/39.mp3
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/hxZHSBdn/20250303-145518.jpg" group-title="আল মু'মিন", Ghafir
+https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/40.mp3
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/hxZHSBdn/20250303-145518.jpg" group-title="হা-মীম সেজদাহ্‌", Fussilat
+https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/41.mp3
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/hxZHSBdn/20250303-145518.jpg" group-title="আশ্‌-শূরা", Ash-Shura
+https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/42.mp3
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/hxZHSBdn/20250303-145518.jpg" group-title="আয্‌-যুখরুফ", Az-Zukhruf
+https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/43.mp3
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/hxZHSBdn/20250303-145518.jpg" group-title="আদ-দোখান", Ad-Dukhan
+https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/44.mp3
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/hxZHSBdn/20250303-145518.jpg" group-title="আল জাসিয়াহ", Al-Jathiya
+https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/45.mp3
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/hxZHSBdn/20250303-145518.jpg" group-title="আল আহ্‌ক্বাফ", Al-Ahqaf
+https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/46.mp3
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/hxZHSBdn/20250303-145518.jpg" group-title="মুহাম্মদ", Muhammad
+https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/47.mp3
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/hxZHSBdn/20250303-145518.jpg" group-title="আল ফাত্‌হ", Al-Fath
+https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/48.mp3
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/hxZHSBdn/20250303-145518.jpg" group-title="আল হুজুরাত", Al-Hujurat
+https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/49.mp3
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/hxZHSBdn/20250303-145518.jpg" group-title="ক্বাফ", Qaf
+https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/50.mp3
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/hxZHSBdn/20250303-145518.jpg" group-title="আয-যারিয়াত", Adh-Dhariyat
+https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/51.mp3
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/hxZHSBdn/20250303-145518.jpg" group-title="আত্ব তূর", At-Tur
+https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/52.mp3
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/hxZHSBdn/20250303-145518.jpg" group-title="আন-নাজম", An-Najm
+https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/53.mp3
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/hxZHSBdn/20250303-145518.jpg" group-title="আল ক্বামার", Al-Qamar
+https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/54.mp3
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/hxZHSBdn/20250303-145518.jpg" group-title="আর রাহমান", Ar-Rahman
+https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/55.mp3
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/hxZHSBdn/20250303-145518.jpg" group-title="আল-ওয়াকিয়াহ", Al-Waqi'ah
+https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/56.mp3
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/hxZHSBdn/20250303-145518.jpg" group-title="আল-হাদীদ", Al-Hadeed
+https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/57.mp3
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/hxZHSBdn/20250303-145518.jpg" group-title="আল-মুজাদালাহ", Al-Mujadila
+https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/58.mp3
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/hxZHSBdn/20250303-145518.jpg" group-title="আল-হাশর", Al-Hashr
+https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/59.mp3
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/hxZHSBdn/20250303-145518.jpg" group-title="আল-মুমতাহিনাহ", Al-Mumtahanah
+https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/60.mp3
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/hxZHSBdn/20250303-145518.jpg" group-title="আস-সাফ", As-Saff
+https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/61.mp3
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/hxZHSBdn/20250303-145518.jpg" group-title="আল-জুমুআ", Al-Jumu'ah
+https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/62.mp3
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/hxZHSBdn/20250303-145518.jpg" group-title="আল-মুনাফিকুন", Al-Munafiqoon
+https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/63.mp3
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/hxZHSBdn/20250303-145518.jpg" group-title="আত-তাগাবুন", At-Taghabun
+https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/64.mp3
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/hxZHSBdn/20250303-145518.jpg" group-title="আত-তালাক", At-Talaq
+https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/65.mp3
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/hxZHSBdn/20250303-145518.jpg" group-title="আত-তাহরীম", At-Tahreem
+https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/66.mp3
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/hxZHSBdn/20250303-145518.jpg" group-title="আল-মুলক", Al-Mulk
+https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/67.mp3
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/hxZHSBdn/20250303-145518.jpg" group-title="আল-কলম", Al-Qalam
+https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/68.mp3
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/hxZHSBdn/20250303-145518.jpg" group-title="আল-হাক্কাহ", Al-Haaqqa
+https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/69.mp3
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/hxZHSBdn/20250303-145518.jpg" group-title="আল-মাআরিজ", Al-Ma'aarij
+https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/70.mp3
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/hxZHSBdn/20250303-145518.jpg" group-title="নূহ", Nuh
+https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/71.mp3
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/hxZHSBdn/20250303-145518.jpg" group-title="আল জ্বিন", Al-Jinn
+https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/72.mp3
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/hxZHSBdn/20250303-145518.jpg" group-title="আল মুজাম্মিল", Al-Muzzammil
+https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/73.mp3
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/hxZHSBdn/20250303-145518.jpg" group-title="আল মুদ্দাস্সির", Al-Muddaththir
+https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/74.mp3
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/hxZHSBdn/20250303-145518.jpg" group-title="আল-ক্বিয়ামাহ", Al-Qiyamah
+https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/75.mp3
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/hxZHSBdn/20250303-145518.jpg" group-title="আদ-দাহর", Al-Insaan
+https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/76.mp3
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/hxZHSBdn/20250303-145518.jpg" group-title="আল-মুরসালাত", Al-Mursalaat
+https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/77.mp3
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/hxZHSBdn/20250303-145518.jpg" group-title="আন নাবা", An-Naba'
+https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/78.mp3
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/hxZHSBdn/20250303-145518.jpg" group-title="আন নাযিয়াত", An-Naazi'aat
+https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/79.mp3
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/hxZHSBdn/20250303-145518.jpg" group-title="আবাসা", Abasa
+https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/80.mp3
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/hxZHSBdn/20250303-145518.jpg" group-title="আত-তাকভীর", At-Takweer
+https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/81.mp3
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/hxZHSBdn/20250303-145518.jpg" group-title="আল-ইনফিতার", Al-Infitar
+https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/82.mp3
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/hxZHSBdn/20250303-145518.jpg" group-title="আত মুত্বাফ্‌ফিফীন", Al-Mutaffifeen
+https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/83.mp3
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/hxZHSBdn/20250303-145518.jpg" group-title="আল ইন‌শিকাক", Al-Inshiqaaq
+https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/84.mp3
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/hxZHSBdn/20250303-145518.jpg" group-title="আল-বুরুজ", Al-Burooj
+https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/85.mp3
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/hxZHSBdn/20250303-145518.jpg" group-title="আত-তারিক্ব", At-Taariq
+https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/86.mp3
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/hxZHSBdn/20250303-145518.jpg" group-title="আল আ'লা", Al-A'la
+https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/87.mp3
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/hxZHSBdn/20250303-145518.jpg" group-title="আল গাশিয়াহ্‌", Al-Ghaashiyah
+https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/88.mp3
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/hxZHSBdn/20250303-145518.jpg" group-title="আল ফাজ্‌র", Al-Fajr
+https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/89.mp3
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/hxZHSBdn/20250303-145518.jpg" group-title="আল বালাদ", Al-Balad
+https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/90.mp3
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/hxZHSBdn/20250303-145518.jpg" group-title="আশ-শাম্‌স", Ash-Shams
+https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/91.mp3
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/hxZHSBdn/20250303-145518.jpg" group-title="আল লাইল", Al-Layl
+https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/92.mp3
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/hxZHSBdn/20250303-145518.jpg" group-title="আদ-দুহা", Ad-Dhuha
+https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/93.mp3
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/hxZHSBdn/20250303-145518.jpg" group-title="আল ইনশিরাহ", Ash-Sharh
+https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/94.mp3
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/hxZHSBdn/20250303-145518.jpg" group-title="ত্বীন", At-Tin
+https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/95.mp3
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/hxZHSBdn/20250303-145518.jpg" group-title="আলাক্ব", Al-Alaq
+https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/96.mp3
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/hxZHSBdn/20250303-145518.jpg" group-title="ক্বদর", Al-Qadr
+https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/97.mp3
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/hxZHSBdn/20250303-145518.jpg" group-title="বাইয়্যিনাহ", Al-Bayyinah
+https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/98.mp3
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/hxZHSBdn/20250303-145518.jpg" group-title="যিলযাল", Az-Zalzalah
+https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/99.mp3
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/hxZHSBdn/20250303-145518.jpg" group-title="আল-আদিয়াত", Al-'Aadiyat
+https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/100.mp3
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/hxZHSBdn/20250303-145518.jpg" group-title="ক্বারিয়াহ", Al-Qaari'ah
+https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/101.mp3
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/hxZHSBdn/20250303-145518.jpg" group-title="তাকাসুর", At-Takaathur
+https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/102.mp3
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/hxZHSBdn/20250303-145518.jpg" group-title="আছর", Al-'Asr
+https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/103.mp3
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/hxZHSBdn/20250303-145518.jpg" group-title="হুমাযাহ", Al-Humazah
+https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/104.mp3
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/hxZHSBdn/20250303-145518.jpg" group-title="ফীল", Al-Feel
+https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/105.mp3
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/hxZHSBdn/20250303-145518.jpg" group-title="কুরাইশ", Quraish
+https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/106.mp3
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/hxZHSBdn/20250303-145518.jpg" group-title="মাউন", Al-Maa'oon
+https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/107.mp3
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/hxZHSBdn/20250303-145518.jpg" group-title="কাওসার", Al-Kawthar
+https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/108.mp3
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/hxZHSBdn/20250303-145518.jpg" group-title="কাফিরুন", Al-Kaafiroon
+https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/109.mp3
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/hxZHSBdn/20250303-145518.jpg" group-title="নাসর", An-Nasr
+https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/110.mp3
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/hxZHSBdn/20250303-145518.jpg" group-title="লাহাব", Al-Masad
+https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/111.mp3
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/hxZHSBdn/20250303-145518.jpg" group-title="আল-ইখলাস", Al-Ikhlas
+https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/112.mp3
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/hxZHSBdn/20250303-145518.jpg" group-title="আল-ফালাক", Al-Falaq
+https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/113.mp3
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/hxZHSBdn/20250303-145518.jpg" group-title="আন-নাস", An-Naas
+https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/114.mp3
